@@ -1,4 +1,5 @@
-# Manipulação de Strings e Listas
+# Manipulação de Strings e Listas 
+- Replace, Split, List Comprehension, Insert e Type
 
 ### Introdução
 Nesta categoria, exploraremos algumas operações fundamentais em Python que envolvem manipulação de strings e listas. Essas habilidades são essenciais para o tratamento e a análise de dados em ciência de dados.

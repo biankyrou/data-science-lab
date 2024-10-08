@@ -1,4 +1,5 @@
 # Estruturas de Dados e Funções Utilitárias
+- Dicionários, Count, Zip, Enumerate
 
 ### Introdução
 Nesta categoria, vamos explorar conceitos de estruturas de dados e algumas funções utilitárias em Python. Esses conceitos são fundamentais para manipular e organizar dados de maneira eficaz.
