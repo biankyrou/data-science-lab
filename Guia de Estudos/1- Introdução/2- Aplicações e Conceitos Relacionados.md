@@ -1,11 +1,11 @@
-# **1. Aplicações da Data Science**
+# **Aplicações da Data Science**
 
 - **Classificação e Localização de Objetos em Imagens**
 - **Predição do Preço de Imóveis**
 - **Geração de Imagens Artificiais**
 - **Jogar (e ganhar) contra humanos em jogos complexos (Go, Xadrez)**
 
-# **2. Conceitos**
+# **Conceitos Relacionados**
 
 ### 1. **Artificial Intelligence** 
 <span style="color:blue">Sistemas que simulam o comportamento humano.</span>

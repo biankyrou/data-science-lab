@@ -21,6 +21,20 @@ As linguagens mais utilizadas na ciência de dados são:
 - **Git**: Ferramenta de controle de versão utilizada para gerenciar o histórico de código e colaborar em projetos com equipes.
 - **GitHub/GitLab**: Plataformas que hospedam repositórios Git, permitem colaboração e documentação de projetos, além de integração com pipelines de CI/CD.
 
+## 6. Obtenção de arquivos 
+- **Kaggle**  
+   Kaggle é uma das maiores plataformas para competições de Ciência de Dados. Também disponibiliza diversos datasets gratuitos.
+   [Acesse aqui](https://www.kaggle.com/datasets)
+
+- **DataCamp**  
+   Além dos cursos, o DataCamp oferece datasets e projetos práticos para aplicar o que você aprendeu.  
+   [Acesse aqui](https://www.datacamp.com/projects)
+
+- **UCI Machine Learning Repository**  
+   O UCI ML Repository é uma das fontes mais conhecidas para datasets de aprendizado de máquina, utilizado amplamente pela comunidade acadêmica.  
+   [Acesse aqui](https://archive.ics.uci.edu/ml/index.php)
+
+
 
 ---
 ## Outras tecnologias e ferramentas utilizadas:

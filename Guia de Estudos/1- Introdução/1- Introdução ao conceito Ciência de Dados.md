@@ -3,7 +3,7 @@
 ## O que é Ciência de Dados?
 A Ciência de Dados é uma área multidisciplinar que abrange o uso de **dados**, **algoritmos** e **tecnologias** para extrair informações valiosas tanto de dados **estruturados** quanto **não estruturados**.
 
-![alt text](image.png)
+![alt text](/Imagens/image.png)
 
 ### Dados Estruturados
 Os **dados tabulares** (ou **estruturados**) são representados em tabelas, amplamente utilizados na Ciência de Dados. Estes dados são organizados em linhas e colunas, onde cada coluna possui valores de um mesmo tipo.
@@ -17,6 +17,12 @@ Um exemplo comum é uma tabela onde:
 - A coluna "Idade" contém apenas **números inteiros**.
 - A coluna "Nome" contém apenas **strings**.
 
+Os dados estruturados podem ser de dois tipos:
+- **Numérico**: Exemplos incluem **peso**, **altura**, **idade**, **área**, **preço**.
+- **Categórico**: Exemplos incluem **cidade**, **sexo**, **modelo de produto**.
+
+→ **Importante**: Saber a diferença entre eles é crucial, pois cada **algoritmo** de machine learning lida com esses tipos de dados de maneiras diferentes!
+
 ### Dados Não Estruturados
 Os **dados não estruturados** são aqueles que encontramos em várias mídias, como:
 - **Comentários** no Instagram,
@@ -28,6 +34,3 @@ Mais de **80% dos dados** gerados no mundo pertencem a essa categoria!
 
 ### Dados Semi-Estruturados
 Há também os **dados semi-estruturados**, como arquivos `.json` e `.xml`. Esses tipos de arquivos têm uma estrutura, mas não seguem o formato rígido de tabelas. Muitas vezes, apresentam **tabelas dentro de tabelas**, onde é necessário destrinchar colunas para acessar mais informações.
-
-
-
