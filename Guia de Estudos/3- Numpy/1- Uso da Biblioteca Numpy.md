@@ -26,7 +26,7 @@ a.ndim  # saída: 1
 a.shape  # saída: (5,)
 ``` 
 
-# ----------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------
 
 # Imagens
 
@@ -41,4 +41,4 @@ No caso da imagem acima, seu formato é (7, 7), indicando que é um **array 2D**
 
 A imagem RGB (Red, Green, Blue) é um tipo de imagem digital onde cada pixel é representado por três valores de intensidade luminosa, um para cada componente de cor: vermelho, verde e azul.
 Cada pixel da imagem é uma combinação desses três canais. Esses valores variam de 0 a 255 e representam a quantidade de cada componente de cor presente em um pixel específico.
-No caso da imagem abaixo, seu formato é (6, 6, 3), indicando que é um **array 3D**.
+No caso da imagem acima, seu formato é (6, 6, 3), indicando que é um **array 3D**.
