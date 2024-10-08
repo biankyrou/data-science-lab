@@ -1,4 +1,5 @@
-# Uso da Biblioteca NumPy I
+# Uso da Biblioteca NumPy 
+NumPy, que significa Numerical Python, é uma biblioteca da linguagem de programação Python, que consiste em objetos chamados de arrays (matrizes), que são multidimensionais. Além disso, essa biblioteca vem com uma coleção de rotinas para processar esses arrays.
 
 ## Conceito de Array
 ![alt text](image.png)
