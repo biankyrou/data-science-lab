@@ -17,11 +17,11 @@ As linguagens mais utilizadas na ciência de dados são:
 - **Matplotlib e Seaborn**: Bibliotecas de visualização para criar gráficos como histogramas, scatter plots e gráficos de barras.
 - **Scikit-Learn**: Principal bilioteca para lidar com Machine Learning.
 
-## 5. Controle de Versão
+## 4. Controle de Versão
 - **Git**: Ferramenta de controle de versão utilizada para gerenciar o histórico de código e colaborar em projetos com equipes.
 - **GitHub/GitLab**: Plataformas que hospedam repositórios Git, permitem colaboração e documentação de projetos, além de integração com pipelines de CI/CD.
 
-## 6. Obtenção de arquivos 
+## 5. Obtenção de arquivos 
 - **Kaggle**  
    Kaggle é uma das maiores plataformas para competições de Ciência de Dados. Também disponibiliza diversos datasets gratuitos.
    [Acesse aqui](https://www.kaggle.com/datasets)

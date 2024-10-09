@@ -1,5 +1,10 @@
 # O que é Numpy?
-NumPy, que significa Numerical Python, é uma biblioteca da linguagem de programação Python, que consiste em objetos chamados de arrays (matrizes), que são multidimensionais. Além disso, essa biblioteca vem com uma coleção de rotinas para processar esses arrays.
+O NumPy (Numerical Python) é uma biblioteca Python projetada para trabalhar com arrays multidimensionais e matrizes contendo números (valores numéricos). Essas estruturas de dados permitem representar eficientemente conjuntos de dados retangulares. O NumPy possui várias vantagens, incluindo: Velocidade aprimorada em operações matemáticas e manipulação de matrizes, Menor uso de memória para armazenar dados, Integração com outras bibliotecas populares como o Pandas e Scikit-Learn. Em resumo, o NumPy facilita muito o trabalho com grandes conjuntos de dados numéricos. Em vez de usar listas Python normais, podemos usar arrays NumPy que são mais rápidos e compactos.
+
+- O NumPy é uma biblioteca Python para arrays multidimensionais e matrizes numéricas
+- Vantagens do NumPy incluem velocidade aprimorada em operações matemáticas, menor uso de memória e integração com outras bibliotecas populares
+- Facilita o trabalho com grandes conjuntos de dados numéricos
+
 
 ## Conceito de Array
 ![alt text](image.png)
