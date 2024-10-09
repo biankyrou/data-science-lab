@@ -22,17 +22,20 @@ As dimensões podem ser entendidas como:
 - **Largura**
 - **Profundidade**
 
-## Exemplo de Criação de um Array
 
+## Importação da biblioteca
 ```python
 import numpy as np
+```
 
+## Exemplo de Criação de um Array
+```python
 a = np.array([1, 25, 4, 33, 9])
 a.ndim  # saída: 1
 a.shape  # saída: (5,)
 ``` 
 
-# ----------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------
 
 # Imagens
 
