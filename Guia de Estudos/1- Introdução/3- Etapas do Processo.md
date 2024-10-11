@@ -1,6 +1,5 @@
-![alt text](/Imagens/image2.png)
-
 # Etapas do Processo (ou Pipeline de Ciência de Dados)
+![alt text](/Imagens/image2.png)
 
 O processo de Ciência de Dados envolve várias etapas fundamentais para transformar dados brutos em informações valiosas.
 
