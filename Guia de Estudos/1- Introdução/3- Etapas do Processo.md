@@ -8,7 +8,7 @@ O primeiro passo no pipeline é **coletar os dados**. Eles podem vir de várias 
 - **Bancos de dados**
 - **APIs**
 - **Web scraping**
-- **Arquivos CSV, XLS, etc**
+- **Arquivos CSV, XLS etc.**
 
 ## 2. Análise Exploratória
 Nesta fase, o objetivo é compreender a estrutura dos dados e obter insights iniciais. Isso inclui:
