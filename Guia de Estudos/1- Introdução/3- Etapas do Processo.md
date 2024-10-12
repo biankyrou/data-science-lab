@@ -43,5 +43,5 @@ O objetivo é verificar a **eficácia** do modelo em relação ao problema propo
 
 ## Adendo:
 A etapa 2 (Análise Exploratória) e a etapa 3 (Pré-processamento) muitas vezes podem se mesclar. <br>
-Para criar gráficos e visualizações, assim como explorar a correlação entre as variáveis, é necessário que os dados não sejam nulos. <br>
-Então, exige-se que o tratamento de valores nulos seja feito antes das visualizações.
+Para criar gráficos e visualizações, assim como explorar a correlação entre as variáveis, é necessário que os dados sejam coerentes e não-nulos. <br>
+Então, exige-se que o tratamento desses valores seja feito antes das visualizações.
