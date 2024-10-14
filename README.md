@@ -1,5 +1,5 @@
 # data-science-lab
-Projeto para estudos de Ciência de Dados do PET/ADS
+Projeto para estudos de Ciência de Dados do PET/ADS <br>
 Este é um guia para quem quer aprender Data Science com Python. É dividido conforme as seguintes seções:
 
 ## Seções do Projeto
