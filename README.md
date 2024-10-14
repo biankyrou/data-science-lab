@@ -12,8 +12,8 @@ Recursos do Python necessários para Data Science.
 **3. Numpy** <br>
 Como usar o Numpy para operações matemáticas e manipulação de arrays.
 
-**4. Pandas** <br>
-Manipulação e análise de dados usando Pandas.
+**4. Pandas e Matplotlib** <br>
+Manipulação e análise de dados usando Pandas, além de criação de visualizações com Matplotlib.
 
 **5. Machine Learning** <br>
 Introdução aos conceitos e técnicas de Machine Learning.
