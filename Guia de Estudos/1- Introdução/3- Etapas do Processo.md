@@ -45,3 +45,7 @@ O objetivo é verificar a **eficácia** do modelo em relação ao problema propo
 A etapa 2 (Análise Exploratória) e a etapa 3 (Pré-processamento) muitas vezes podem se mesclar. <br>
 Para criar gráficos e visualizações, assim como explorar a correlação entre as variáveis, é necessário que os dados sejam coerentes e não-nulos. <br>
 Então, exige-se que o tratamento desses valores seja feito antes das visualizações.
+
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/4-%20Compreens%C3%A3o%20do%20Dom%C3%ADnio.md)
