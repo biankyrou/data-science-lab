@@ -37,5 +37,5 @@ Há também os **dados semi-estruturados**, como arquivos `.json` e `.xml`. Esse
 
 <br>
 
-[![Botão](https://img.shields.io/badge/Clique-Aqui-blue?style=for-the-badge)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md)
+<a href="[https://exemplo.com](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md)" style="color: white; background-color: blue; padding: 10px 15px; text-decoration: none; border-radius: 4px;">Clique Aqui</a>
 
