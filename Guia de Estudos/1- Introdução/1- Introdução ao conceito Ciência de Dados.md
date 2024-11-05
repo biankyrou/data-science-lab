@@ -34,3 +34,8 @@ Mais de **80% dos dados** gerados no mundo pertencem a essa categoria!
 
 ### Dados Semi-Estruturados
 Há também os **dados semi-estruturados**, como arquivos `.json` e `.xml`. Esses tipos de arquivos têm uma estrutura, mas não seguem o formato rígido de tabelas. Muitas vezes, apresentam **tabelas dentro de tabelas**, onde é necessário destrinchar colunas para acessar mais informações.
+
+<br>
+
+[Próximo Tópico](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md)
+
