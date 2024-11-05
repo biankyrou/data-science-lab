@@ -4,8 +4,8 @@ Este é um guia para quem quer aprender Data Science com Python. É dividido nas
 
 ## Seções do Projeto
 **1. Introdução** <br>
-Conceitos básicos de Ciência de Dados e como começar.
-[Clique Aqui](https://github.com/biankyrou/data-science-lab/tree/main/Guia%20de%20Estudos)
+Conceitos básicos de Ciência de Dados e como começar. <br>
+[Introdução](https://github.com/biankyrou/data-science-lab/tree/main/Guia%20de%20Estudos)
 
 **2. Python para Praticar** <br>
 Recursos do Python necessários para Data Science.
