@@ -37,6 +37,5 @@ Há também os **dados semi-estruturados**, como arquivos `.json` e `.xml`. Esse
 
 <br>
 
-[![Ir para a Próxima Seção]([https://img.shields.io/badge/Ir_para-Próxima_Seção-blue?style=for-the-badge](https://img.shields.io/badge/-Pr%C3%B3xima_Se%C3%A7%C3%A3o-blue?style=for-the-badge&color=007BFF))](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md)
-
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md)
 
