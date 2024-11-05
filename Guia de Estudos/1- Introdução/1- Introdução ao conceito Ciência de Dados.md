@@ -37,5 +37,4 @@ Há também os **dados semi-estruturados**, como arquivos `.json` e `.xml`. Esse
 
 <br>
 
-[Próximo Tópico](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md)
-
+<a href="https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/2-%20Aplica%C3%A7%C3%B5es%20e%20Conceitos%20Relacionados.md" style="padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Clique Aqui</a>
