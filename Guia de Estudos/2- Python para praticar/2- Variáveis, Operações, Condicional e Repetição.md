@@ -33,4 +33,6 @@ Abaixo estão alguns exercícios que trabalham os conceitos de variáveis, opera
 8. **Exercício 5: Estruturas de Repetição com While**
    - Crie uma variável chamada `contador` e atribua a ela o valor 0. Utilize um loop `while` para exibir os números de 1 a 5. Incrementar o `contador` a cada iteração.
 
+<br>
+
 [![➡ Próximos Exercícios](https://img.shields.io/badge/-%F0%9F%93%98_Acesse_Aqui_:_Pr%C3%B3ximos_Exerc%C3%ADcios-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/2-%20Python%20para%20praticar/3-%20Listas%2C%20Tuplas%2C%20Slice%20e%20Fun%C3%A7%C3%B5es.md)
