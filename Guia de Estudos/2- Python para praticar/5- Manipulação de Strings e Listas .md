@@ -23,3 +23,5 @@ Nesta categoria, exploraremos algumas operações fundamentais em Python que env
 ### Exercício 5: Type
 - **Descrição**: O comando `type()` retorna o tipo de dados de uma variável, permitindo verificar se é um inteiro, string, lista, entre outros.
 - **Enunciado**: Crie uma variável `valor` com um número inteiro e outra variável `texto` com uma string. Utilize o comando `type()` para verificar o tipo de ambas as variáveis e exiba o resultado.
+
+[![➡ Próximo Capítulo](https://img.shields.io/badge/-%E2%9E%A1_Pr%C3%B3ximo_Cap%C3%ADtulo:_Numpy-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/3-%20Numpy/1-%20Introdu%C3%A7%C3%A3o.md)
