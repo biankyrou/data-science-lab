@@ -31,3 +31,7 @@ Funções são blocos de código reutilizáveis que realizam uma tarefa específ
 6. **Exercício 4: Funções**
    - Crie uma função chamada `soma` que receba dois números como parâmetros e retorne a soma deles. 
    - Chame a função com valores de sua escolha e exiba o resultado.
+
+<br>
+
+[![➡ Próximos Exercícios](https://img.shields.io/badge/-%F0%9F%93%98_Acesse_Aqui_:_Pr%C3%B3ximos_Exerc%C3%ADcios-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/2-%20Python%20para%20praticar/4-%20Estruturas%20de%20Dados%20e%20Fun%C3%A7%C3%B5es%20Utilit%C3%A1rias.md)
