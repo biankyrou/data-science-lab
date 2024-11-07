@@ -35,3 +35,7 @@ b = np.array([7, 1, 8, 5])
 a + b  # Resultado: array([ 9,  4, 17,  9])
 a - b  # Resultado: array([-5,  2,  1, -1])
 ```
+
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-%E2%9E%A1_Pr%C3%B3xima_Se%C3%A7%C3%A3o:_Fun%C3%A7%C3%B5es_de_Agrega%C3%A7%C3%A3o_e_Reshape-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/3-%20Numpy/3-%20Fun%C3%A7%C3%B5es%20de%20Agrega%C3%A7%C3%A3o%20e%20Reshape.md)
