@@ -35,4 +35,4 @@ Abaixo estão alguns exercícios que trabalham os conceitos de variáveis, opera
 
 <br>
 
-[![➡ Próximos Exercícios](https://img.shields.io/badge/-%F0%9F%93%98_Acesse_Aqui_:_Pr%C3%B3ximos_Exerc%C3%ADcios-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/2-%20Python%20para%20praticar/3-%20Listas%2C%20Tuplas%2C%20Slice%20e%20Fun%C3%A7%C3%B5es.md)
+[![➡ Próximos Exercícios](https://img.shields.io/badge/-%F0%9F%93%98_Acesse_Aqui_:_Pr%C3%B3ximos_Exerc%C3%ADcios_(Listas_,_Tuplas_e_Slice)-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/2-%20Python%20para%20praticar/3-%20Listas%2C%20Tuplas%2C%20Slice%20e%20Fun%C3%A7%C3%B5es.md)
