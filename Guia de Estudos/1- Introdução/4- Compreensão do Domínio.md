@@ -30,3 +30,7 @@ Antes de começar, é essencial responder algumas perguntas:
 
 
 Em resumo, o foco em um objetivo claro e na compreensão do domínio permite direcionar as análises e construir modelos que fazem sentido para o contexto específico. Sem essa base, corre-se o risco de criar soluções desconectadas da realidade ou sem aplicabilidade prática.
+
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/1-%20Introdu%C3%A7%C3%A3o/5-%20Ambiente%20de%20Trabalho.md)
