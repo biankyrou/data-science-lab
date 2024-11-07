@@ -34,4 +34,4 @@ Funções são blocos de código reutilizáveis que realizam uma tarefa específ
 
 <br>
 
-[![➡ Próximos Exercícios](https://img.shields.io/badge/-%F0%9F%93%98_Acesse_Aqui_:_Pr%C3%B3ximos_Exerc%C3%ADcios-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/2-%20Python%20para%20praticar/4-%20Estruturas%20de%20Dados%20e%20Fun%C3%A7%C3%B5es%20Utilit%C3%A1rias.md)
+[![➡ Próximos Exercícios](https://img.shields.io/badge/-%F0%9F%93%98_Acesse_Aqui_:_Pr%C3%B3ximos_Exerc%C3%ADcios_(Estruturas_de_Dados_e_Fun%C3%A7%C3%B5es_Utilit%C3%A1rias)-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/2-%20Python%20para%20praticar/4-%20Estruturas%20de%20Dados%20e%20Fun%C3%A7%C3%B5es%20Utilit%C3%A1rias.md)
