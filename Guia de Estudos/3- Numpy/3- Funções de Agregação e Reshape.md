@@ -42,6 +42,7 @@ print(c)
 #[[ 6  7]
 #[ 8  9]
 #[10 11]]]
+´´´
 
 → Os shapes sempre são múltiplos. Por exemplo, ali criamos um array com arange de 12 elementos. Então, criamos um array 2D a partir dele, com 12 elementos também (3 vezes 4). Enfim, depois criamos um array 3D (2 vezes 3 vezes 2).
 
