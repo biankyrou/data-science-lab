@@ -44,3 +44,7 @@ print(c)
 #[10 11]]]
 
 → Os shapes sempre são múltiplos. Por exemplo, ali criamos um array com arange de 12 elementos. Então, criamos um array 2D a partir dele, com 12 elementos também (3 vezes 4). Enfim, depois criamos um array 3D (2 vezes 3 vezes 2).
+
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-%E2%9E%A1_Pr%C3%B3xima_Se%C3%A7%C3%A3o:_Indexa%C3%A7%C3%A3o-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/3-%20Numpy/4-%20Indexa%C3%A7%C3%A3o.md)
