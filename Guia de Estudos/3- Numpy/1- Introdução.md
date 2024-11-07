@@ -52,6 +52,8 @@ A imagem RGB (Red, Green, Blue) é um tipo de imagem digital onde cada pixel é 
 Cada pixel da imagem é uma combinação desses três canais. Esses valores variam de 0 a 255 e representam a quantidade de cada componente de cor presente em um pixel específico.
 No caso da imagem acima, seu formato é (6, 6, 3), indicando que é um **array 3D**.
 
+<br>
+
 [![➡ Próxima Seção](https://img.shields.io/badge/-%E2%9E%A1_Pr%C3%B3xima_Se%C3%A7%C3%A3o:_Opera%C3%A7%C3%B5es_Matem%C3%A1ticas_com_Numpy-blue?style=for-the-badge&color=007BFF)](https://github.com/biankyrou/data-science-lab/blob/main/Guia%20de%20Estudos/3-%20Numpy/2-%20Opera%C3%A7%C3%B5es%20Matem%C3%A1ticas.md)
 
 
